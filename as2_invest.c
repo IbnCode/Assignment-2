@@ -1,3 +1,4 @@
+// Student Name: Ahmed Al Mudarris 
 #include <stdio.h>
 
 int main(void)
